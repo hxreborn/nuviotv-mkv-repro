@@ -1,0 +1,1 @@
+Repro for an MKV with `Tracks` after the Clusters. Install `https://raw.githubusercontent.com/hxreborn/nuviotv-mkv-repro/main/manifest.json` as an addon, open Big Buck Bunny (tt1254207) and pick the REPRO or CONTROL stream.
